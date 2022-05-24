@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5cad68a-d07a-4123-8059-f7a235d35a88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="295luYt3vRDBMsYvBxTlRRcDQig" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ice_lake">
+    <configuration name="PolicyIteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PolicyIteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ValueIteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ValueIteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ice_lake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ice_lake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ice_lake" />
+        <item itemvalue="Python.PolicyIteration" />
+        <item itemvalue="Python.ValueIteration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5cad68a-d07a-4123-8059-f7a235d35a88" name="Default Changelist" comment="" />
+      <created>1652411050449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652411050449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="957" y="304" key="FileChooserDialogImpl" timestamp="1652941764694">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="718" y="225" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1652492525234" />
+    <state x="957" y="304" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1652941764694" />
+    <state width="1003" height="300" key="GridCell.Tab.0.bottom" timestamp="1652941777881">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1003" height="300" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1652941777881" />
+    <state width="1003" height="300" key="GridCell.Tab.0.center" timestamp="1652941777881">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1003" height="300" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1652941777881" />
+    <state width="1003" height="300" key="GridCell.Tab.0.left" timestamp="1652941777881">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1003" height="300" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1652941777881" />
+    <state width="1003" height="300" key="GridCell.Tab.0.right" timestamp="1652941777881">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1003" height="300" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1652941777881" />
+    <state width="2027" height="379" key="GridCell.Tab.1.bottom" timestamp="1652881027642">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="379" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1652881027642" />
+    <state width="2027" height="379" key="GridCell.Tab.1.center" timestamp="1652881027642">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="379" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1652881027642" />
+    <state width="2027" height="379" key="GridCell.Tab.1.left" timestamp="1652881027642">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="379" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1652881027642" />
+    <state width="2027" height="379" key="GridCell.Tab.1.right" timestamp="1652881027642">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="379" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1652881027642" />
+    <state x="47" y="151" key="SettingsEditor" timestamp="1652927812523">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1652411305346" />
+    <state x="47" y="151" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1652927812523" />
+    <state x="599" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1652924806845">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1652492438795" />
+    <state x="599" y="320" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1652924806845" />
+  </component>
+</project>
